@@ -10,7 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/gamemoddesignbr/gmpack)](https://github.com/gamemoddesignbr/gmpack/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-GMPACK é um pacote all-in-one (tudo em um) de custom firmware que inclui o Atmosphère, hekate, nyx e vários outros homebrews mas nenhuma arquivo que habilita pirataria.
+GMPACK é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère que inclui o hekate/nyx e vários outros homebrews. Assim como o Atmosphère ele não contém arquivos que habilitam pirataria!
 
 ## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/gamemoddesignbr/gmpack/releases)**
 
