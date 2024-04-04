@@ -16,7 +16,7 @@ GMPACK é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphè
 
 ## Como instalar
 - Formate seu microSD em FAT32 e descompacte o conteúdo do arquivo .zip na raiz.
-  - O processo de instalação deste pacote fica mais fácil quando é feito pelo homebrew [APG - Atualizador Pacote GameMod](https://github.com/gamemoddesignbr/gmpack-updater).
+  - O processo de instalação deste pacote fica mais fácil quando é feito pelo homebrew [GMPACK Updater](https://github.com/gamemoddesignbr/gmpack-updater), antigo APG - Atualizador Pacote GameMod.
 
 ## Aviso legal
 A GameMod design não detém nenhum direito de cópia sobre nenhum arquivo neste pacote e todo o crédito pertence aos seus respectivos proprietários. Se o atual proprietário de um arquivo presente neste pacote solicitar a remoção de um arquivo, o removeremos imediatamente.
